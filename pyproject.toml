@@ -2,7 +2,7 @@
 name = "agri-bq-emission"
 version = "0.1.0"
 description = "Generalized CO2 emission calculation from BigQuery and CSV input."
-authors = ["Pranay Sharma sharmapranay38@gmail.com"]
+authors = [{ name = "Pranay Sharma", email = "sharmapranay38@gmail.com" }]
 
 [tool.poetry.dependencies]
 pandas = "^2.0.0"
